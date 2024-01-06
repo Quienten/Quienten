@@ -1,11 +1,10 @@
 <h1 align="center">Hello, I'm Quienten</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quienten&label=Profile%20views&color=0e75b6&style=flat" alt="quienten" /> </p>
 
 - 🧑‍🍳 [RecipeReady](https://recipeready.quienten.dev)
 
-- 📁 All of my projects are available at [Portfolio](https://quienten.dev)
+- 📁 All of my projects are available at my [portfolio](https://quienten.dev)
 
 - 🟪 [Tetris Group Project](https://github.com/Quienten/tetris-group-project)
 
