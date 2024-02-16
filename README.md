@@ -2,6 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quienten&label=Profile%20views&color=0e75b6&style=flat" alt="quienten" /> </p>
 
+<h3 align="left">What I'm learning now</h3>
+
+- Golang
+- WebSocket
+- MongoDB
+
+<h3 align="left">Previous Projects</h3>
+
 - 🧑‍🍳 [RecipeReady](https://recipeready.quienten.dev)
 
 - 📁 All of my projects are available at my [portfolio](https://quienten.dev)
