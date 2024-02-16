@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Quienten</h1>
+<h1 align="center">Hello, I'm Quienten Miller</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quienten&label=Profile%20views&color=0e75b6&style=flat" alt="quienten" /> </p>
 
